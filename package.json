@@ -1,0 +1,32 @@
+{
+  "name": "wcs_projet_entreprise",
+  "version": "1.0.0",
+  "description": "TNR de l'application Trello",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Alex Battas, ",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "cypress-mailslurp": "^1.7.0",
+    "mailslurp-client": "^15.17.2"
+  },
+<<<<<<< HEAD
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaree86/Projet_Entreprise_Trello_WCS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skaree86/Projet_Entreprise_Trello_WCS/issues"
+  },
+  "homepage": "https://github.com/Skaree86/Projet_Entreprise_Trello_WCS#readme",
+  "dependencies": {
+    "mailslurp": "^0.0.1-security"
+  }
+=======
+>>>>>>> 4478aa046d41fd1e9b9faa454a25d3e605df79b4
+}
+
